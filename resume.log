@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.11.12)  26 OCT 2020 22:20
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.11.12)  30 OCT 2020 00:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -954,14 +954,14 @@ LaTeX Info: Redefining \selectfont on input line 79.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: includehead 
 * h-part:(L,W,R)=(39.83368pt, 517.84052pt, 39.83368pt)
-* v-part:(T,H,B)=(22.76228pt, 771.06952pt, 51.21504pt)
+* v-part:(T,H,B)=(8.5359pt, 785.2959pt, 51.21504pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=517.84052pt
-* \textheight=734.06952pt
+* \textheight=748.2959pt
 * \oddsidemargin=-32.43631pt
 * \evensidemargin=-32.43631pt
-* \topmargin=-49.5077pt
+* \topmargin=-63.73409pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=11.0pt
@@ -1068,6 +1068,11 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
 (Font)              scaled to size 10.0pt on input line 13.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/bx/n' will be
 (Font)              scaled to size 10.0pt on input line 13.
+
+
+LaTeX Font Warning: Font shape `TU/FontAwesome(1)/bx/n' undefined
+(Font)              using `TU/FontAwesome(1)/m/n' instead on input line 13.
+
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
 (Font)              scaled to size 9.0pt on input line 13.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <9> not available
@@ -1097,13 +1102,17 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 102.
  (./resume.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 102.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 102.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
  ) 
 Here is how much of TeX's memory you used:
- 38014 strings out of 493007
- 749350 string characters out of 6136718
- 955320 words of memory out of 5000000
- 41502 multiletter control sequences out of 15000+600000
- 532698 words of font info for 79 fonts, out of 8000000 for 9000
+ 38018 strings out of 493007
+ 749443 string characters out of 6136718
+ 955333 words of memory out of 5000000
+ 41505 multiletter control sequences out of 15000+600000
+ 532706 words of font info for 80 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  72i,11n,89p,10463b,428s stack positions out of 5000i,500n,10000p,200000b,80000s
 

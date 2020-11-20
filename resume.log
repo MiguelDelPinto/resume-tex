@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.11.12)  30 OCT 2020 00:17
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.11.12)  20 NOV 2020 13:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -953,15 +953,15 @@ LaTeX Info: Redefining \selectfont on input line 79.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: includehead 
-* h-part:(L,W,R)=(39.83368pt, 517.84052pt, 39.83368pt)
-* v-part:(T,H,B)=(8.5359pt, 785.2959pt, 51.21504pt)
+* h-part:(L,W,R)=(36.98866pt, 523.53055pt, 36.98866pt)
+* v-part:(T,H,B)=(-5.69046pt, 822.28456pt, 28.45274pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=517.84052pt
-* \textheight=748.2959pt
-* \oddsidemargin=-32.43631pt
-* \evensidemargin=-32.43631pt
-* \topmargin=-63.73409pt
+* \textwidth=523.53055pt
+* \textheight=785.28456pt
+* \oddsidemargin=-35.28133pt
+* \evensidemargin=-35.28133pt
+* \topmargin=-77.96045pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=11.0pt
@@ -1090,7 +1090,7 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <8> not availa
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
 (Font)              scaled to size 8.0pt on input line 13.
 ) (./resume/experience.tex) (./resume/projects.tex) (./resume/skills.tex
-Overfull \hbox (11.4079pt too wide) in alignment at lines 3--12
+Overfull \hbox (10.83885pt too wide) in alignment at lines 3--12
 [] [] 
  []
 
@@ -1110,7 +1110,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  38018 strings out of 493007
  749443 string characters out of 6136718
- 955333 words of memory out of 5000000
+ 956343 words of memory out of 5000000
  41505 multiletter control sequences out of 15000+600000
  532706 words of font info for 80 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
